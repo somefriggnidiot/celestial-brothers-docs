@@ -37,22 +37,3 @@ Disembersements of or over the in-game value 5,000,000 (5m) gp but under the val
 Disembersements of or over the in-game value of 50,000,000 (50m) gp but under or of the value of 150,000,000 (150m) gp shall require approval by a simple majority of the Staff.  
 
 Disembersements over the in-game value of 150,000,000 (150m) gp shall require approval by a simple majority of the Membership.
-
-# Article V - Treasury-Backed Loans
-The Treasury shall have the ability to originate loans to the Membership. The Membership may request a loan via application to the Loan Officer. The Loan Officer shall review the application with the High Council and render judgement. Loan applications shall be returned to the applicant with either loan options or reason for denial within no more than three days of receipt.
-
-## Section 1 - Restrictions on Loans
-Treasury-Backed Loans shall adhere to the following restrictions:
-* No Member may have simultaneous active loans.
-* The total value of all outstanding loans may not exceed the amount of available funds in the Treasury.
-* Treasury-funded cash rewards won by Members with outstanding loan balances shall by applied directly to the loan. Any value in excess of the outstanding loan amount shall be paid to the Member accordingly.
-
-## Section 2 - Penalty for Late or Missed Payment
-Payment shall be considered late if not received by the end of day (Eastern US time) that it is due.  
-For late payments, a fee determined upon the loan's origination shall be assessed to the payment amount due. Loanee shall be ineligible for promotions until payment with late fee is received in full.  
-
-### Subsection A - Missed Payments
-Payment shall be considered missed if not received by the due date of the following payment.  
-* The first missed payment shall be due in full, including the late fee, before the immediately following payment date upon being declared missed.  
-* The second missed payment shall follow the same as the first, with the addition that the loanee may be disqualified from any promotions, competitions, events, or raffles. Loanee may also face demotion.
-* Upon the third missed payment, the loan shall become due in full the immediately following payment date. Loanee is declared ineligible for all clan benefits until the loan is paid off or for four weeks (whichever is longer.)
